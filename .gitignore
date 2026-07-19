@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/resumes/*
+data/cache/*
+data/faiss_index/*
+logs/*
+.DS_Store
+!data/resumes/.gitkeep
+!data/cache/.gitkeep
+!data/faiss_index/.gitkeep
+!logs/.gitkeep
